@@ -1,2 +1,3 @@
 # FreeCodeCamp-Personal-portfolio
 images used for personal portfolio project with FreeCodeCamp
+Screenshots will be uploaded regularly for each new projects
